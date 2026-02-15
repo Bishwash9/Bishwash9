@@ -8,11 +8,11 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Skilled in Full-Stack Development  
+- 💻 Skilled in modern full-stack development  
 - ⚡ Strong foundation in React, TypeScript & Backend Technologies  
 - ☁️ Interested in Cloud Infrastructure & Deployment  
-- 🎨 Creative experience with Lightroom & Photoshop  
-- 🧠 Always learning new technologies  
+- 🎨 Experienced with Lightroom & Photoshop  
+- 🧠 Continuously learning and improving  
 
 ---
 
@@ -20,29 +20,22 @@
 
 ## 🚀 Frontend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind" />
 </p>
 
 ## ⚙️ Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,c" />
 </p>
 
 ## 🗄️ Databases
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ## 🧪 Tools
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
 ---
@@ -51,7 +44,7 @@
 
 - 🚀 Server Deployment  
 - 🔄 CI/CD Pipelines  
-- 🐳 Docker (Learning & Practicing)  
+- 🐳 Docker  
 - ☁️ Exploring AWS / Azure / GCP  
 
 ---
@@ -59,8 +52,8 @@
 # 🎨 Creative Skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Adobe_Photoshop_Lightroom_CC_logo.svg" height="40" alt="Lightroom"/>
+  <img src="https://skillicons.dev/icons?i=photoshop" />
+  <img src="https://img.icons8.com/color/48/adobe-lightroom.png" height="48"/>
 </p>
 
 - Adobe Lightroom  
@@ -74,14 +67,14 @@
 ## 🔥 Streak Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="streak graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
 
 ## 📈 Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -92,5 +85,4 @@
 - 📧 Email: bishwasmahajan@gmail.com  
 
 ---
-
 
